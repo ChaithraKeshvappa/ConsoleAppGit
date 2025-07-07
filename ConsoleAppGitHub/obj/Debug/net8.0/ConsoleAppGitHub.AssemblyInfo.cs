@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppGitHub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff455ca5725165155d11c348bf6c40025868a4c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5eb572a611cfbd4d6c41d5fbb366f53a00c083fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppGitHub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppGitHub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
