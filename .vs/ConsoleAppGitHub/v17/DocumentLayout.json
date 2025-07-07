@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\chaithra.keshvappa\\source\\repos\\ConsoleAppGitHub\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{59B78077-842D-4CDF-A83E-2C9363DFF71A}|ConsoleAppGitHub\\ConsoleAppGitHub.csproj|c:\\users\\chaithra.keshvappa\\source\\repos\\consoleappgithub\\consoleappgithub\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B78077-842D-4CDF-A83E-2C9363DFF71A}|ConsoleAppGitHub\\ConsoleAppGitHub.csproj|solutionrelative:consoleappgithub\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{59B78077-842D-4CDF-A83E-2C9363DFF71A}|ConsoleAppGitHub\\ConsoleAppGitHub.csproj|c:\\users\\chaithra.keshvappa\\source\\repos\\consoleappgithub\\consoleappgithub\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59B78077-842D-4CDF-A83E-2C9363DFF71A}|ConsoleAppGitHub\\ConsoleAppGitHub.csproj|solutionrelative:consoleappgithub\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Class3.cs",
+              "DocumentMoniker": "C:\\Users\\chaithra.keshvappa\\source\\repos\\ConsoleAppGitHub\\ConsoleAppGitHub\\Class3.cs",
+              "RelativeDocumentMoniker": "ConsoleAppGitHub\\Class3.cs",
+              "ToolTip": "C:\\Users\\chaithra.keshvappa\\source\\repos\\ConsoleAppGitHub\\ConsoleAppGitHub\\Class3.cs",
+              "RelativeToolTip": "ConsoleAppGitHub\\Class3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T10:43:46.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Class2.cs",
               "DocumentMoniker": "C:\\Users\\chaithra.keshvappa\\source\\repos\\ConsoleAppGitHub\\ConsoleAppGitHub\\Class2.cs",
               "RelativeDocumentMoniker": "ConsoleAppGitHub\\Class2.cs",
@@ -43,20 +60,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ConsoleAppGitHub",
+              "DocumentIndex": 2,
+              "Title": "ConsoleAppGitHub.csproj",
               "DocumentMoniker": "C:\\Users\\chaithra.keshvappa\\source\\repos\\ConsoleAppGitHub\\ConsoleAppGitHub\\ConsoleAppGitHub.csproj",
               "RelativeDocumentMoniker": "ConsoleAppGitHub\\ConsoleAppGitHub.csproj",
               "ToolTip": "C:\\Users\\chaithra.keshvappa\\source\\repos\\ConsoleAppGitHub\\ConsoleAppGitHub\\ConsoleAppGitHub.csproj",
               "RelativeToolTip": "ConsoleAppGitHub\\ConsoleAppGitHub.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-07T10:21:10.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T10:21:10.007Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\chaithra.keshvappa\\source\\repos\\ConsoleAppGitHub\\ConsoleAppGitHub\\Class1.cs",
               "RelativeDocumentMoniker": "ConsoleAppGitHub\\Class1.cs",
@@ -64,12 +80,11 @@
               "RelativeToolTip": "ConsoleAppGitHub\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T09:55:43.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T09:55:43.571Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\chaithra.keshvappa\\source\\repos\\ConsoleAppGitHub\\ConsoleAppGitHub\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleAppGitHub\\Program.cs",
